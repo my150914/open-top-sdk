@@ -1,0 +1,24 @@
+{
+    "name": "my150914/open-top-sdk",
+    "type": "library",
+    "description": "Taobao oepn sdk for laravel",
+    "keywords": ["taobao", "laravel", "sdk", "api"],
+    "homepage": "git@github.com:my150914/open-top-sdk.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dollar",
+            "email": "625156198@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "illuminate/support": "~5.0|~5.1|~5.2|~5.3|~5.4|~5.5|~5.6",
+        "graham-campbell/manager": "^2.0|^3.0|^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "open-top-skd\\": "top/"
+        }
+    }
+}
