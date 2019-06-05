@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Taobao oepn sdk for laravel",
     "keywords": ["taobao", "laravel", "sdk", "api"],
-    "homepage": "git@github.com:my150914/open-top-sdk.git",
+    "homepage": "https://github.com/my150914/open-top-sdk",
     "license": "MIT",
     "authors": [
         {
