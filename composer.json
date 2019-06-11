@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "TopSdk\\": "top/"
+            "my150914\\open-top-sdk\\": "top/"
         }
     }
 }
